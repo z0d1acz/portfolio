@@ -6,7 +6,7 @@ Hi — I'm **z0diacz**. This repository collects my HackTheBox writeups, sanitiz
 
 ## 🔗 Quick Links  
 - **HackTheBox:** https://app.hackthebox.com/users/2625778 
-- **GitHub:** https://github.com/YOUR-GITHUB-USERNAME
+- **GitHub:** https://github.com/z0d1acz
 
 ---
 
@@ -23,8 +23,5 @@ This site is built with [Jekyll](https://jekyllrb.com/) and GitHub Pages. My goa
 - provide minimal PoC code that’s safe to reuse for learning (no live credentials or flags included).
 
 ---
-
-## 🛠 Deploy (quick)
-If you're maintaining this repo and want it live on GitHub Pages:
 
 ```bash
