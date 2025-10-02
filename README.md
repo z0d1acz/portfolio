@@ -4,9 +4,8 @@ Hi — I'm **z0diacz**. This repository collects my HackTheBox writeups, sanitiz
 
 ---
 
-## 🔗 Quick Links
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE  
-- **HackTheBox:** https://www.hackthebox.com/profile/YOUR-HTB-USERNAME  
+## 🔗 Quick Links  
+- **HackTheBox:** https://app.hackthebox.com/users/2625778 
 - **GitHub:** https://github.com/YOUR-GITHUB-USERNAME
 
 ---
@@ -29,10 +28,3 @@ This site is built with [Jekyll](https://jekyllrb.com/) and GitHub Pages. My goa
 If you're maintaining this repo and want it live on GitHub Pages:
 
 ```bash
-# locally
-git clone git@github.com:YOUR-GITHUB-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
-# add the files (index.md and README.md or post files)
-git add index.md README.md _posts/2025-10-02-hacknet.md
-git commit -m "Add homepage, README, and Hacknet post"
-git push origin main
