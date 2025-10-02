@@ -33,13 +33,6 @@ I focus on responsibly disclosing vulnerabilities and learning defensively, docu
 
 ---
 
-## Contact
-- **Name:** `z0diacz`  
-- **LinkedIn:** [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/needtoupdate)  
-- **HackTheBox:** [YOUR-HTB-PROFILE](https://app.hackthebox.com/users/2625778)  
-
----
-
 ## Want the sanitized writeup?
 All technical writeups are stored in this repository under `/ _posts /` (Markdown). If you'd like the raw artifacts or scripts for a writeup, open an issue or contact me on LinkedIn/GitHub.
 
