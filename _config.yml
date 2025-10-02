@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: test homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "HTB Writeups"
+description: "My HackTheBox portfolio"
+theme: minima
+markdown: kramdown
